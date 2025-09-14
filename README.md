@@ -132,7 +132,7 @@ pip install tensorflow opencv-python numpy pandas seaborn matplotlib scikit-lear
 
 ## License
 
-This project is open-source under the MIT License (assumed; adjust as needed). The dataset is under Kaggle's terms – credit to the original author (Navoneel).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. The dataset is subject to Kaggle's terms – credit to the original author (Navoneel).
 
 ## Acknowledgments
 
